@@ -10,3 +10,4 @@ elif 50 > old >= 18:
     print("Adult")
 else:
     print("Very old for this game :/")
+print("end")
